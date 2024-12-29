@@ -3,7 +3,7 @@
 - 👀 I’m interested in Civil Engineering, Blockchain, and Machine Learning applications in structural health monitoring.
 - 🌱 I’m currently learning about smart cities, urban infrastructure, and plant fiber-based concrete.
 - 💞️ I’m looking to collaborate on engineering projects, especially around sustainable materials and smart infrastructure.
-- 📫 How to reach me: [Your email or LinkedIn profile]
+- 📫 How to reach me:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm exploring ways to make cities more sustainable through tech!
 - 
